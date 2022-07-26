@@ -1,4 +1,3 @@
-package classes;
 import java.util.Scanner;
 class AnimalDAO 
 {

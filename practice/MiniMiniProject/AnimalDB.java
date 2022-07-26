@@ -1,4 +1,3 @@
-package classes;
 class AnimalDB 
 {
 	String petInfo[][] ={{"00","복길","DOG","치와와","M","6.1","3.18","https://youtu.be/oNibaIGI5Bs"},
